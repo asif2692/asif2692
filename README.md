@@ -2,156 +2,109 @@
 
 ### 💻 Software Developer | Web Developer | AI & Machine Learning Enthusiast
 
-I'm a Software Developer and enjoy building practical, scalable and
-user-friendly software solutions.
+I'm a Software Developer who enjoys building **practical, scalable, and user-friendly** software solutions.  
+Currently working at **Dawateislami**, where I contribute to enterprise-level systems used across international operations.
 
-I work as a developer at **Dawateislami**, contributing to software
-systems used in real-world organizational operations.
+---
+
+### 🚀 About Me
+
+- 🏢 Software Developer at **Dawateislami**
+- 💼 Working on the **Employee Self Service (ESS)** system and other internal business applications
+- 🌱 Currently diving deeper into **Machine Learning, AI, Computer Vision & Advanced Angular**
+- 💡 Passionate about turning real-world problems into clean, usable software
+- ⚡ Always learning and improving
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Dawateislami
+### 🏢 Dawateislami — Software Developer
 
-I work as a **Software Developer** and contribute to the development
-and maintenance of enterprise-level applications.
-
-One of the major systems I work with is the **Employee Self Service
-(ESS)** system, which is used across Dawateislami's international
-operations.
-
-I also work on other internal systems and business applications.
+- Developing and maintaining enterprise-level applications
+- Major contribution to the **Employee Self Service (ESS)** system used across Dawateislami’s international operations
+- Working on multiple internal systems and business applications
 
 ---
 
-## 🚀 Projects
+## 🛠️ Featured Projects
 
 ### 🔋 Battery Management System
+A complete web-based system for battery shop operations.  
+**Actively used in a real shop for more than 1 year.**
 
-A web-based Battery Management System developed for battery shop
-operations.
+**Tech Stack:** Angular · TypeScript · Firebase · HTML/CSS · JavaScript
 
-The system has been actively used at a shop for **more than one year**.
-
-**Technologies:**
-- Angular
-- TypeScript
-- Firebase
-- HTML / CSS
-- JavaScript
-
-**Features include:**
-- Battery inventory management
-- Sales management
-- Customer management
-- Reports
-- Stock management
-- Business records
+**Key Features:**
+- Battery Inventory & Stock Management
+- Sales & Customer Management
+- Business Reports & Records
 
 ---
 
 ### 📋 Task Management System
+A system designed to manage organizational tasks, assignments, and workflows.
 
-A Task Management System designed to help manage organizational tasks,
-assignments and workflow.
-
-**Key areas:**
-- Task creation
-- Task assignment
-- Task tracking
-- Status management
-- User-based workflow
+**Key Areas:**
+- Task Creation & Assignment
+- Status Tracking
+- User-based Workflow
 - Reporting
 
 ---
 
 ### 🏠 Rental Property Management System
-
-A personal project for managing rental properties, tenants and monthly
-rent records.
+A personal project for managing rental properties, tenants, and monthly rent records.
 
 **Features:**
-- Property management
-- Building / Floor management
-- Tenant management
-- Monthly rent tracking
-- Payment records
-- Rent increase management
+- Property / Building / Floor Management
+- Tenant Management
+- Monthly Rent Tracking & Payment Records
+- Rent Increase Management
 
 ---
 
-## 🛠️ Technologies & Skills
+## 🛠️ Tech Stack
 
 ### Frontend
-- Angular
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
+`Angular` `TypeScript` `JavaScript` `HTML5` `CSS3`
 
 ### Backend & Programming
-- C#
-- .NET
-- Python
+`C#` `.NET` `Python`
 
 ### Database
-- SQL Server
-- Firebase
-- SQLite
-- Supabase
+`SQL Server` `Firebase` `SQLite` `Supabase`
 
 ### Data & Machine Learning
-- Python
-- NumPy
-- Pandas
-- Scikit-learn
-- Data Analysis
-- Machine Learning
-- Classification
-- Regression
+`Python` `NumPy` `Pandas` `Scikit-learn` `Data Analysis` `Machine Learning` `Classification` `Regression`
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+`Git` `GitHub` `VS Code` `Jupyter Notebook`
 
 ---
 
 ## 🤖 Currently Learning
 
-- Machine Learning
-- Artificial Intelligence
+- Machine Learning & Artificial Intelligence
 - Computer Vision
-- Data Analysis with Python
 - Advanced Angular
 - C# / .NET
-- Database Design
+- Database Design & Architecture
 
 ---
 
-## 📊 My Development Journey
+## 📊 GitHub Stats
 
-I enjoy learning new technologies and turning ideas into practical
-software applications.
+![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asif2692&show_icons=true&theme=tokyonight&hide_border=true)
 
-My interests include:
-
-- 🌐 Web Application Development
-- 🏢 Enterprise Software
-- 🤖 Artificial Intelligence
-- 📊 Data Analysis
-- 🧠 Machine Learning
-- 🗄️ Database Systems
-- 🚀 Business Automation
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asif2692&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: [@asif2692](https://github.com/asif2692)
+- **GitHub:** [github.com/asif2692](https://github.com/asif2692)
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! Feel free to explore my projects.
