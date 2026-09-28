@@ -2,18 +2,18 @@
 
 ### 💻 Software Developer | Web Developer | AI & Machine Learning Enthusiast
 
-I'm a Software Developer who enjoys building **practical, scalable, and user-friendly** software solutions.  
-Currently working at **Dawateislami**, where I contribute to enterprise-level systems used across international operations.
+I'm a Software Developer who builds **practical, scalable, and real-world software solutions**.  
+Currently working at **Dawateislami**, contributing to enterprise-level systems used across international operations.
 
 ---
 
 ### 🚀 About Me
 
 - 🏢 Software Developer at **Dawateislami**
-- 💼 Working on the **Employee Self Service (ESS)** system and other internal business applications
-- 🌱 Currently diving deeper into **Machine Learning, AI, Computer Vision & Advanced Angular**
-- 💡 Passionate about turning real-world problems into clean, usable software
-- ⚡ Always learning and improving
+- 💼 Working on the **Employee Self Service (ESS)** system & other internal business applications
+- 🌱 Currently learning **Machine Learning, AI, Computer Vision & Advanced Angular**
+- 💡 Passionate about solving real business problems with clean & usable software
+- ⚡ Always learning and building
 
 ---
 
@@ -30,10 +30,10 @@ Currently working at **Dawateislami**, where I contribute to enterprise-level sy
 ## 🛠️ Featured Projects
 
 ### 🔋 Battery Management System
-A complete web-based system for battery shop operations.  
-**Actively used in a real shop for more than 1 year.**
+A complete **web-based Battery Management System** built for real battery shop operations.  
+**Actively used in a shop for more than 1 year.**
 
-**Tech Stack:** Angular · TypeScript · Firebase · HTML/CSS · JavaScript
+**Tech Stack:** `Angular` `TypeScript` `Firebase` `HTML/CSS` `JavaScript`
 
 **Key Features:**
 - Battery Inventory & Stock Management
@@ -42,44 +42,70 @@ A complete web-based system for battery shop operations.
 
 ---
 
-### 📋 Task Management System
-A system designed to manage organizational tasks, assignments, and workflows.
+### 📋 Shura Task & Follow-up Management System
+A full-stack Task Management System designed for organizational task assignment, tracking, and follow-ups.
 
-**Key Areas:**
+**Tech Stack:** `Angular 19` `FastAPI` `Supabase (PostgreSQL)` `Python`
+
+**Key Features:**
 - Task Creation & Assignment
-- Status Tracking
-- User-based Workflow
-- Reporting
+- Status Tracking & User-based Workflow
+- Role-based Access (Admin, Shura, Assistant, Helper)
+- Reporting & Follow-up Management
+
+🔗 [View Repository](https://github.com/asif2692/shura-task-system)
 
 ---
 
 ### 🏠 Rental Property Management System
-A personal project for managing rental properties, tenants, and monthly rent records.
+A complete system for managing rental properties, buildings, floors, tenants, and monthly rent records.
 
-**Features:**
+**Tech Stack:** `TypeScript` `Vite` `Supabase`
+
+**Key Features:**
 - Property / Building / Floor Management
 - Tenant Management
 - Monthly Rent Tracking & Payment Records
 - Rent Increase Management
+
+🔗 [View Repository](https://github.com/asif2692/rental-property-management-system)
+
+---
+
+### 🛂 TracePass — Digital Product Passport & Supply Chain Compliance
+A professional Flask-based platform for **product identity, supply-chain traceability, certificates, and compliance management**.
+
+**Tech Stack:** `Python` `Flask` `PostgreSQL` `Docker` `SQLAlchemy` `Chart.js`
+
+**Key Features:**
+- Product Passport with QR Code
+- Supply Chain Events & Timeline
+- Certificate Management & Expiry Detection
+- Automated Compliance Checks
+- Role-based Access (Admin, Manufacturer, Auditor, Customer)
+- Public Verification Page
+- Docker + PostgreSQL support
+
+🔗 [View Repository](https://github.com/asif2692/tracepass)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-`Angular` `TypeScript` `JavaScript` `HTML5` `CSS3`
+`Angular` `TypeScript` `JavaScript` `HTML5` `CSS3` `Vite`
 
 ### Backend & Programming
-`C#` `.NET` `Python`
+`C#` `.NET` `Python` `FastAPI` `Flask`
 
 ### Database
-`SQL Server` `Firebase` `SQLite` `Supabase`
+`SQL Server` `Firebase` `SQLite` `Supabase` `PostgreSQL`
 
 ### Data & Machine Learning
-`Python` `NumPy` `Pandas` `Scikit-learn` `Data Analysis` `Machine Learning` `Classification` `Regression`
+`Python` `NumPy` `Pandas` `Scikit-learn` `Data Analysis` `Machine Learning`
 
 ### Tools
-`Git` `GitHub` `VS Code` `Jupyter Notebook`
+`Git` `GitHub` `VS Code` `Jupyter Notebook` `Docker`
 
 ---
 
